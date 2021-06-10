@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 
 <p alian='center'>
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
