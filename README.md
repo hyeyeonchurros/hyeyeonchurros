@@ -1,6 +1,8 @@
-## hyeyeonchurros 🤪
+### hyeyeonchurros 🤪
 
-프론트엔드 개발자를 목표로 공부하고 있습니다
+프론트엔드 개발자를 목표로 공부하고 있습니다 :)
+
+##stack
 <!--
 **hyeyeonchurros/hyeyeonchurros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
