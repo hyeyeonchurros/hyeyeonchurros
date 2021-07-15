@@ -3,6 +3,7 @@
 프론트엔드 개발자를 목표로 공부하고 있습니다 :)
 <p alian='center'>
 <a href="https://github.com/hyeyeonchurros" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+ <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
   
 ### STACK 🎠
