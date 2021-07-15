@@ -1,8 +1,10 @@
 ## hyeyeonchurros 🤪
 
 프론트엔드 개발자를 목표로 공부하고 있습니다 :)
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
+<p alian='center'>
+<a href="https://github.com/hyeyeonchurros" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
+  
 ### STACK 🎠
 <p alian='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
