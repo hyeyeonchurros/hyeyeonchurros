@@ -24,5 +24,7 @@
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 </p>
 
+<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeonchurros)
 ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeonchurros)
+</p>
