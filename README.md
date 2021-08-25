@@ -1,12 +1,12 @@
-## hyeyeonchurros 🤪
+## <p align='center'>hyeyeonchurros 🤪</p>
 
-프론트엔드 개발자를 목표로 공부하고 있습니다 :)
+<p align='center'>프론트엔드 개발자를 목표로 공부하고 있습니다 :)</p>
 <p align='center'>
 <a href="https://github.com/hyeyeonchurros" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
   
-### STACK 🎠
+### <p align='center'>STACK 🎠
 <p align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
-### TOOL 🎡
+### <p align='center'>TOOL 🎡</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
@@ -24,4 +24,4 @@
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeonchurros&layout=compact)](https://github.com/hyeyeonchurros/github-readme-stats)
+<p align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeyeonchurros&layout=compact)](https://github.com/hyeyeonchurros/github-readme-stats)</p>
