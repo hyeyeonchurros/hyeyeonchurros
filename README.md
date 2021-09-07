@@ -2,7 +2,6 @@
 
 <p align='center'>
 <a href="https://github.com/hyeyeonchurros" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chy051124@gmail.com)](mailto:chy051124@gmail.com)
 </p>
   
 ### <p align='center'>STACK 🎠
